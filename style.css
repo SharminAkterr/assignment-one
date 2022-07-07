@@ -2,7 +2,7 @@
     background-image: url(./images/donation13.jpg);
     background-size: cover;
     background-position: initial;
-    height: 665px;
+    height: 660px;
     width: 100%;
     text-align: center;
     color: white;
@@ -17,7 +17,6 @@
 
 #h1first-id {
     font-size: 52px;
-    padding-top: 10px;
 }
 
 body {
@@ -69,7 +68,12 @@ body {
 
 #taka-amount {
     margin-top: 45px;
-    color: rgb(104, 98, 98);
+    color: rgb(145, 138, 138);
+}
+
+.donate-flood2 hr {
+    width: 50%;
+    margin-left: 27%;
 }
 
 #para-2 {
@@ -99,7 +103,7 @@ body {
 }
 
 .three-all {
-    padding: 4% 3% 1% 2%;
+    padding: 4% 3% 2% 2%;
     border-radius: 5px;
     font-size: smaller;
     margin-top: 1%;
@@ -110,4 +114,23 @@ body {
 .three-all h3 {
     font-weight: 900;
     font-size: 20px;
+}
+
+#h3-first {
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 56, 95);
+    font-size: 36pX;
+}
+
+#last-para {
+    color: rgb(199, 196, 196);
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.last {
+    background-color: rgb(1, 1, 14);
+    text-align: center;
+    margin: 0%;
+    padding: 2% 0%;
 }
