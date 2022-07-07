@@ -1,7 +1,6 @@
 .donate-flood {
     background-image: url(./images/donation13.jpg);
     background-size: cover;
-    background-position: initial;
     height: 660px;
     width: 100%;
     text-align: center;
@@ -146,22 +145,11 @@ body {
 
 .input-all {
     display: flex;
+    margin-left: 38%;
+    padding-top: 4%;
+    padding-bottom: 8%;
 }
 
-#em-id {
-    margin-left: 40%;
-    margin-bottom: 5%;
-    margin-top: 5%;
-}
-
-#sub-id {
-    padding: 5px;
-    text-decoration: none;
-    background-image: linear-gradient(rgb(253, 95, 67), rgb(255, 97, 69));
-    color: white;
-    font-size: 16px;
-    font-weight: 500;
-}
 
 #h3-first {
     font-family: 'Lobster', cursive;
