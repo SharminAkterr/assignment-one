@@ -1,0 +1,47 @@
+.donate-flood {
+    background-image: url(./images/donation7.jpg);
+    background-size: cover;
+    background-position: inherit;
+    height: 660px;
+    text-align: center;
+    color: beige;
+}
+
+.flood-people {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1first-id {
+    font-size: 52px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.button-link {
+    padding: 12px 15px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(253, 95, 67), rgb(255, 97, 69));
+    color: aliceblue;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.donate-flood2 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+#h1-second {
+    font-size: 34px;
+}
+
+.taka li {
+    display: inline;
+    margin-left: 50px;
+}
